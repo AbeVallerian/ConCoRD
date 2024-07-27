@@ -18,7 +18,7 @@ URLS: List[str] = [
 ]
 N_PAGES: int = 10
 USE_CACHE: bool = False
-OUTPUT_DIR: str = "/Users/avallerian/GitRepo/ConCoRd/ConCoRd"
+OUTPUT_DIR: str = "/Users/avallerian/GitRepo/ConCoRD/ConCoRD"
 
 
 def maybe_makedir(dir: str) -> None:
