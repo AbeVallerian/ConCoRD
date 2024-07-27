@@ -1,7 +1,13 @@
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# file output
+ConCoRd/html
+ConCoRd/result
 
 # C extensions
 *.so
