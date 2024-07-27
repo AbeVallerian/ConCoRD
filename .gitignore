@@ -6,8 +6,8 @@ __pycache__/
 *$py.class
 
 # file output
-ConCoRd/html
-ConCoRd/result
+ConCoRD/html
+ConCoRD/result
 
 # C extensions
 *.so
